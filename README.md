@@ -7,7 +7,7 @@ Descrição: Logo em seguida após adicionar os dados nos campos, a pessoa poder
 
 ![3](https://github.com/falkAnonymous/CadastroWinform/assets/107887516/204838ec-d682-46b3-a809-61fbe08a7cbe)
 Descrição: Em seguida vemos no campo abaixo; as informações que foram adicionado no campo registrado acima . 
-dentre eles temos as informações como: Nome , Data de Nascimento , Estado Civil , Telefone , Se tem Alguma deficiência e o sexo com uma unica letra.
+dentre eles temos as informações: Nome , Data de Nascimento , Estado Civil , Telefone , Se tem Alguma deficiência e o sexo com uma unica letra.
 
 ![4](https://github.com/falkAnonymous/CadastroWinform/assets/107887516/9c8eacb1-bbec-4711-a14a-c1f61b40db29)
 Descrição: Se a pessoa quiser excluir um cadastro da lista , basta a pessoa selecionar os dados que aparecem na lista e logo em seguida clicar no botão "Excluir".
